@@ -3,7 +3,7 @@ A game developed in python using the pygame for the course of ISS (Intro to Soft
 
 Install pygame to run the game
 
-Installation : pip3 sudo install pygame
+Installation : pip3 install pygame
 
 Command to run : python3 ggame.py
 
