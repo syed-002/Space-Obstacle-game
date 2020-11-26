@@ -2,7 +2,9 @@
 A game developed in python using the pygame for the course of ISS (Intro to Software Systems)
 
 Install pygame to run the game
+
 Installation : pip3 sudo install pygame
+
 Command to run : python3 ggame.py
 
 Description about the game:
